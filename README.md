@@ -1,3 +1,5 @@
+![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
 # But Ser
 
 What the hell does this term mean?
