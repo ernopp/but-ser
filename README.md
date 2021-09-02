@@ -2,25 +2,23 @@
 
 What the hell does this term mean?
 
-You're new to crypto twitter, take this slang dictionary, you'll need it:
+You're new to crypto twitter, take this slang dictionary, you'll need it. 
 
 ## Credits
 
-Big up to [@punk6529](https://twitter.com/punk6529) whose [awesome thread](https://twitter.com/punk6529/status/1433002033242595338) supplies most of the content here. 
+**Big up to [@punk6529](https://twitter.com/punk6529) whose [awesome thread](https://twitter.com/punk6529/status/1433002033242595338) supplies most of the content here.**
 
 ## Contributions
 
-The idea is that this repo stays up to date as we (I) add more terms as they emerge. So don't hesitiate to PR, we got dis!
+The idea is that this repo stays up to date as we (I) add more terms as they emerge. So **don't hesitiate to submit PRs**, we got dis!
 
 ---
-
-# Here we go:
 
 ## Alpha
 
 Outperformance vs the beta (market average)
 
-_"Free alpha: buy X"_
+_"Zhu Su is dropping so much free alpha this week"_
 
 ## Aped
 
@@ -28,7 +26,11 @@ This one has come straight from Crypto Twitter.   It means "take on a large posi
 
 Apes have a strong NFT history - first, the famous 24 ape punks and then with Bored Ape Yacht Club.
 
-"I aped Golden Snail, but DYOR"
+_"I aped Golden Snail, but DYOR"_
+
+## Bell Curve
+
+![](img/bell-curve.jpg)
 
 ## Few
 
@@ -36,7 +38,14 @@ Few is short for "few understand".  Like "probably nothing" it is polite FOMO.
 
 _"MOMA bought a punk. Few"_
 
+## Fren
+
+Fren means "friend"
+
+Because we are all friends here on a happy mission quest together.
+
 ## FUD
+
 
 
 
@@ -48,15 +57,23 @@ _"MOMA just bought a punk.  WAGMI"_
 
 ## gm
 
-Good morning. 
+Good morning. Can be said any time. 
 
-_"gm"_
+![](img/gm.png)
 
 ## LFG
 
 Let's F***ing Go.   Used when you are excited about something.   Best used with rocket emojis.
 
 _"New Golden Snail mint. LFG 🚀🚀🚀"_
+
+## McDonald's
+
+Our backup career plan in case the NGMI scenario comes true
+
+_"Sold a Fidenza for 5ETH. Applying now to McDonald's"_
+
+![](/img/mcd.jfif)
 
 ## Noob/Pleb
 
@@ -66,7 +83,9 @@ _"6529 is such a noob.  I can't believe I forgot to mint the Golden Snail"_
 
 ## Ser
 
-Affectionate term for Sir. 
+Means "Sir".
+
+It is a way to respectfully introduce oneself or perhaps share an alternative point of view
 
 _"But Ser, wen token launch?"_
 
@@ -75,10 +94,3 @@ _"But Ser, wen token launch?"_
 When, but you don't have time to type the h.
 
 _"Wen NFT drop?"_
-
-
----
-# Big Up
-
-Thanks to 
-https://twitter.com/punk6529/status/1433002033242595338
