@@ -2,19 +2,9 @@
 
 # But Ser
 
-What the hell does this term mean?
+_What the hell does this term mean?_
 
-You're new to crypto twitter, take this slang dictionary, you'll need it. 
-
-## Credits
-
-**Big up to [@punk6529](https://twitter.com/punk6529) whose [awesome thread](https://twitter.com/punk6529/status/1433002033242595338) supplies most of the content here.**
-
-## Contributions
-
-The idea is that this repo stays up to date as we (I) add more terms as they emerge. So **don't hesitiate to submit PRs**, we got dis!
-
----
+_You're new to crypto twitter, take this slang dictionary, you'll need it._
 
 ## Alpha
 
@@ -48,8 +38,9 @@ Because we are all friends here on a happy mission quest together.
 
 ## FUD
 
+Originally "fear uncertainty doubt". But also used to disparage a claim that isn't bullish enough.
 
-
+_"100k BTC is FUD". 
 
 ## gmi / wagmi / ngmi
 
@@ -91,8 +82,22 @@ It is a way to respectfully introduce oneself or perhaps share an alternative po
 
 _"But Ser, wen token launch?"_
 
+## Simp 
+
+A crypto simpleton. Sometimes is a groupie to a particular CT personality, for instance Irene. This led to the birth of Simp DAOs, a rather sad development. 
+
 ## Wen
 
 When, but you don't have time to type the h.
 
 _"Wen NFT drop?"_
+
+---
+
+## Credits
+
+**Big up to [@punk6529](https://twitter.com/punk6529) whose [awesome thread](https://twitter.com/punk6529/status/1433002033242595338) supplies a good chunk of the content here
+
+## Contributions
+
+The idea is that this repo stays up to date as we (I) add more terms as they emerge. So **don't hesitiate to submit PRs**, we got dis!
