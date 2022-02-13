@@ -96,8 +96,12 @@ _"Wen NFT drop?"_
 
 ## Credits
 
-**Big up to [@punk6529](https://twitter.com/punk6529) whose [awesome thread](https://twitter.com/punk6529/status/1433002033242595338) supplies a good chunk of the content here
+**Big up to [@punk6529](https://twitter.com/punk6529) whose [awesome thread](https://twitter.com/punk6529/status/1433002033242595338) supplies a good chunk of the content here**
 
 ## Contributions
 
 The idea is that this repo stays up to date as we (I) add more terms as they emerge. So **don't hesitiate to submit PRs**, we got dis!
+
+## Also see
+
+Let's face it you're really here for the memes. Check out my favourite memes: [https://meme-garage.com/ernopp](https://meme-garage.com/ernopp)
